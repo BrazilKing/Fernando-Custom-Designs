@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+        stroke: #231f20;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+        stroke-width: 12px;
+      }
+
+      .cls-6, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #010101;
+      }
+
+      .cls-2, .cls-7, .cls-4 {
+        fill: none;
+      }
+
+      .cls-3, .cls-8 {
+        fill: #010101;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Transparent_bg" data-name="Transparent bg">
+    <rect class="cls-7" width="600" height="600"/>
+  </g>
+  <g id="wR_export" data-name="wR export">
+    <path class="cls-3" d="m298.88,139.13h64.6v-26.5h38.57s8.31,53.43,8.31,53.43l-5.64,6.08s-48.84,26.63-105.37,26.63"/>
+    <path class="cls-8" d="m394.55,484.42l-2.22-7.07h-186.88v-3c39.41-133.95,42.97-192.47,42.88-284h101.12c-.09,91.53,5.69,160.12,45.1,294.07Z"/>
+    <rect class="cls-3" x="280.55" y="112.64" width="38.9" height="22.8"/>
+    <path class="cls-3" d="m300,139.13h-64.6v-26.5h-38.57s-8.31,53.43-8.31,53.43l5.64,6.08s48.84,26.63,105.37,26.63"/>
+    <path class="cls-5" d="m298.87,144.53h64.6v-26.5h38.57s8.31,53.43,8.31,53.43l-5.64,6.08s-48.84,26.63-105.37,26.63"/>
+    <g>
+      <ellipse class="cls-8" cx="300" cy="500.58" rx="144" ry="42.5"/>
+      <ellipse class="cls-2" cx="300" cy="500.58" rx="144" ry="42.5"/>
+    </g>
+    <g>
+      <ellipse class="cls-6" cx="300" cy="490.38" rx="144" ry="42.5"/>
+      <ellipse class="cls-4" cx="300" cy="490.38" rx="144" ry="42.5"/>
+    </g>
+    <line class="cls-4" x1="392.27" y1="483.07" x2="205.39" y2="483.07"/>
+    <path class="cls-6" d="m394.55,489.82l-2.22-7.07h-186.88v-3c39.41-133.95,42.97-192.47,42.88-284h101.12c-.09,91.53,5.69,160.12,45.1,294.07Z"/>
+    <line class="cls-4" x1="392.98" y1="483.24" x2="206.1" y2="483.24"/>
+    <rect class="cls-5" x="280.55" y="118.04" width="38.9" height="22.8"/>
+    <path class="cls-5" d="m300,144.53h-64.6v-26.5h-38.57s-8.31,53.43-8.31,53.43l5.64,6.08s48.84,26.63,105.37,26.63"/>
+    <polygon class="cls-1" points="300 174.7 199.31 173.89 195.33 169.91 195.4 169.51 300 169.07 300 174.7"/>
+    <polygon class="cls-1" points="300 174.7 400.69 173.89 404.67 169.91 404.6 169.51 300 169.07 300 174.7"/>
+  </g>
+</svg>
